@@ -1,10 +1,9 @@
 ## Hi there 👋
-
->  I'm **Victoria Guillén**, a Mathematical Engineering & AI student from Spain.  
+ I'm **Victoria Guillén**, a Mathematical Engineering & AI student from Spain.  
 
 ### 🧠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,cs,r,bash,html,css,react,flask,django,pytorch,sklearn,tensorflow,opencv,matlab,git,github,linux,docker,aws,azure,kafka,mysql,mongodb,redis,postman,vscode,visualstudio,unity&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,js,cs,r,bash,html,css,react,django,pytorch,sklearn,tensorflow,opencv,matlab,linux,docker,aws,azure,kafka,mysql,mongodb,redis,postman,vscode,visualstudio,unity&perline=9" />
 </p>
 
 
