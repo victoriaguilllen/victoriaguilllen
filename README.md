@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**victoriaguilllen/victoriaguilllen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Victoria Guillén**, a Mathematical Engineering & AI student from Madrid 🇪🇸.  
 
-Here are some ideas to get you started:
+### 🧠 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,matlab,cs,html,css,js,git,github,linux,vscode,docker,aws,react,unity,mysql,mongodb&perline=9" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Contact Me
+- 💌 [Email](mailto:vguillentorre@gmail.com)
+- 🌐 [LinkedIn](https://linkedin.com/in/victoriaguillendelatorre)
+
+- 
+💻 Always curious. Always learning.
