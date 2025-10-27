@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Victoria Guillén**, a Mathematical Engineering & AI student from Madrid 🇪🇸.  
+I'm **Victoria Guillén**, a Mathematical Engineering & AI student from Spain.  
 
 ### 🧠 Languages & Tools
 <p>
@@ -10,8 +10,7 @@ I'm **Victoria Guillén**, a Mathematical Engineering & AI student from Madrid �
 ---
 
 ### 📫 Contact Me
-- 💌 [Email](mailto:vguillentorre@gmail.com)
-- 🌐 [LinkedIn](https://linkedin.com/in/victoriaguillendelatorre)
+-  [Email](mailto:vguillentorre@gmail.com)
+-  [LinkedIn](https://linkedin.com/in/victoriaguillendelatorre)
 
-- 
 💻 Always curious. Always learning.
