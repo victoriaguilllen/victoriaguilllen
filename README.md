@@ -9,16 +9,9 @@
 
 ---
 
-### 🧩 Fun Fact
-
-> “I love turning abstract problems into elegant solutions — whether through math, code, or coffee ☕.”
-
----
-
 ### 📫 Contact Me
 -  [Email](mailto:vguillentorre@gmail.com)
 -  [LinkedIn](https://linkedin.com/in/victoriaguillendelatorre)
 
 ---
 
-💻 Always curious. Always learning.
